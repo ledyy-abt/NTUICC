@@ -7,7 +7,7 @@ NTU网络自动连接插件
 
 `Java`版本需求：`1.8`或更高
 
- <img src="C:\Users\ledyy\AppData\Roaming\Typora\typora-user-images\image-20210521135205092.png" alt="image-20210521135205092" style="zoom:80%;" />
+ <img src="https://github.com/262412-leddy/NTUICC/blob/main/picture/image-20210521135205092.png" alt="image-20210521135205092" style="zoom:80%;" />
 
 #### 2. 使用步骤
 
